@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_City_2</name>
+   <tag></tag>
+   <elementGuidId>8672131e-d575-4976-86f9-31c34c32c207</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/r4-root/section/div/r4-querybuilder/div/div/div[2]/r4-query-concept-editor/div/form/div[2]/div/div[1]/div/div[2]/div/div/div[2]/p-autocomplete/span/div/ul/li/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

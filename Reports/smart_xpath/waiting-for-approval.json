@@ -1,0 +1,74 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": false,
+      "proposedXPath": "(//option[@value\u003d\u00273\u0027])[4]",
+      "testObjectId": "Object Repository/Ingest Class and subclass/option_Things",
+      "brokenXPath": "/html/body/div[8]/div/div/div[2]/div[3]/select",
+      "pathToScreenshot": "C:/Users/sshejwal/Katalon Studio/dataIngest/Reports/smart_xpath/Object Repository/Ingest Class and subclass/option_Things_attributes.png"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "//select[@name\u003d\u0027dialogMixedArray\u0027]",
+      "testObjectId": "Object Repository/Ingest Class and subclass/select_PeoplePlacesThings",
+      "brokenXPath": "(//select[@name\u003d\u0027dialogMixedArray\u0027])[4]",
+      "pathToScreenshot": "C:/Users/sshejwal/Katalon Studio/dataIngest/Reports/smart_xpath/Object Repository/Ingest Class and subclass/select_PeoplePlacesThings_attributes.png"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Action\u0027])[1]/preceding::a[2]",
+      "testObjectId": "Object Repository/Ingest Class and subclass/a_Data",
+      "brokenXPath": "//li[@class\u003d\u0027nav-item ng-star-inserted subnav\u0027]//a[contains(text(),\u0027Data\u0027)]",
+      "pathToScreenshot": "C:/Users/sshejwal/Katalon Studio/dataIngest/Reports/smart_xpath/Object Repository/Ingest Class and subclass/a_Data_neighbor_0.png"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Search\u0027])[1]/following::span[1]",
+      "testObjectId": "Object Repository/Ingest Class and subclass/span_Data Strategy",
+      "brokenXPath": "//*[@class\u003d\u0027binder\u0027]//*[text()\u003d\u0027Data Strategy\u0027]",
+      "pathToScreenshot": "C:/Users/sshejwal/Katalon Studio/dataIngest/Reports/smart_xpath/Object Repository/Ingest Class and subclass/span_Data Strategy_neighbor_2.png"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Search\u0027])[1]/following::span[1]",
+      "testObjectId": "Object Repository/Ingest Class and subclass/span_Data Strategy",
+      "brokenXPath": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Data Sources\u0027])[2]/preceding::span[1]",
+      "pathToScreenshot": "C:/Users/sshejwal/Katalon Studio/dataIngest/Reports/smart_xpath/Object Repository/Ingest Class and subclass/span_Data Strategy_neighbor_2.png"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Search\u0027])[1]/following::span[1]",
+      "testObjectId": "Object Repository/Ingest Class and subclass/span_Data Strategy",
+      "brokenXPath": "//a[contains(text(),\u0027Data Strategy\u0027)]",
+      "pathToScreenshot": "C:/Users/sshejwal/Katalon Studio/dataIngest/Reports/smart_xpath/Object Repository/Ingest Class and subclass/span_Data Strategy_neighbor_2.png"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "//li/a",
+      "testObjectId": "Object Repository/Ingest Class and subclass/a_Data",
+      "brokenXPath": "//li[@class\u003d\u0027nav-item ng-star-inserted subnav\u0027]//a[contains(text(),\u0027Data\u0027)]",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": false,
+      "proposedXPath": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Search\u0027])[1]/following::span[1]",
+      "testObjectId": "Object Repository/Ingest Class and subclass/span_Data Strategy",
+      "brokenXPath": "//li[@class\u003d\u0027binder\u0027]//a[contains(text(),\u0027Data Strategy\u0027)]",
+      "pathToScreenshot": "C:/Users/sshejwal/Katalon Studio/dataIngest/Reports/smart_xpath/Object Repository/Ingest Class and subclass/span_Data Strategy_neighbor_1.png"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Search\u0027])[1]/following::span[1]",
+      "testObjectId": "Object Repository/Ingest Class and subclass/span_Data Strategy",
+      "brokenXPath": "//a[@class\u003d\u0027binder\u0027]//span[contains(text(),\u0027Data Strategy\u0027)]",
+      "pathToScreenshot": "C:/Users/sshejwal/Katalon Studio/dataIngest/Reports/smart_xpath/Object Repository/Ingest Class and subclass/span_Data Strategy_neighbor_2.png"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Search\u0027])[1]/following::span[1]",
+      "testObjectId": "Object Repository/Ingest Class and subclass/span_Data Strategy",
+      "brokenXPath": "//a[@class\u003d\u0027binder\u0027]//span[contains(text(),\u0027Data Strategy\u0027)]",
+      "pathToScreenshot": ""
+    }
+  ]
+}

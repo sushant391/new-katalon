@@ -1,0 +1,3 @@
+{"testCaseName":"Test Cases/Create Ingest Class and subclass - data driven - Iteration 1","testCaseId":"Test Cases/Create Ingest Class and subclass - data driven","bindedValues":{"classCatagory":"People"}}
+{"testCaseName":"Test Cases/Create Ingest Class and subclass - data driven - Iteration 2","testCaseId":"Test Cases/Create Ingest Class and subclass - data driven","bindedValues":{"classCatagory":"Places"}}
+{"testCaseName":"Test Cases/Create Ingest Class and subclass - data driven - Iteration 3","testCaseId":"Test Cases/Create Ingest Class and subclass - data driven","bindedValues":{"classCatagory":"Things"}}

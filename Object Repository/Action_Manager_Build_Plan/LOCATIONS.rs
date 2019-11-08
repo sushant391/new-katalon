@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LOCATIONS</name>
+   <tag></tag>
+   <elementGuidId>af42d0ea-f523-4bfe-96b6-03a15982bae2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/r4-root/section/div/r4-querybuilder/div/div/div[1]/div/div[1]/r4-query-canvas/div/aside/div/div/div[1]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

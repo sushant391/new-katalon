@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>0a238668-03a4-4b26-b03d-b447faa57a89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>12</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>10</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 12 10</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/r4-root[@class=&quot;ng-tns-c0-0&quot;]/section[@class=&quot;content ng-tns-c0-0 ng-star-inserted&quot;]/div[@class=&quot;content-outlet&quot;]/r4-querybuilder[@class=&quot;ng-tns-c17-21 ng-star-inserted&quot;]/div[@class=&quot;query-content&quot;]/div[@class=&quot;query-builder&quot;]/div[@class=&quot;query-builder--row&quot;]/div[@class=&quot;query-builder--content&quot;]/div[@class=&quot;query-builder--content-builder&quot;]/r4-query-canvas[@class=&quot;ng-tns-c17-21 ng-star-inserted&quot;]/div[@class=&quot;query-builder--content-builder&quot;]/div[@class=&quot;canvas-dropzone&quot;]/div[@class=&quot;canvas-dropzone__inner-container&quot;]/div[@class=&quot;query-grid--scroll-container&quot;]/div[@class=&quot;query-grid muuri&quot;]/r4-query-builder-card[@class=&quot;ng-tns-c26-25 muuri-item muuri-item-shown ng-star-inserted&quot;]/div[@class=&quot;query-builder-card query-grid&quot;]/div[@class=&quot;query-builder-card--state&quot;]/div[@class=&quot;products&quot;]/svg[1]</value>
+   </webElementProperties>
+</WebElementEntity>

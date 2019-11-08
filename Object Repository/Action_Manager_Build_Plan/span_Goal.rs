@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Goal</name>
+   <tag></tag>
+   <elementGuidId>058baefe-efe1-4346-9330-1788a58d5c30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/r4-root/section/div/r4-querybuilder/div/div/div[1]/div/div[1]/r4-query-canvas/div/div/div[3]/div[2]/div/r4-query-builder-card[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

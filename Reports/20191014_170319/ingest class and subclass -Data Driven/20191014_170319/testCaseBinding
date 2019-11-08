@@ -1,0 +1,6 @@
+{"testCaseName":"Test Cases/Create Ingest Class and subclass - data driven - Iteration 1","testCaseId":"Test Cases/Create Ingest Class and subclass - data driven","bindedValues":{"classCatagory":"People","storageType":"Account"}}
+{"testCaseName":"Test Cases/Create Ingest Class and subclass - data driven - Iteration 2","testCaseId":"Test Cases/Create Ingest Class and subclass - data driven","bindedValues":{"classCatagory":"Places","storageType":"Document"}}
+{"testCaseName":"Test Cases/Create Ingest Class and subclass - data driven - Iteration 3","testCaseId":"Test Cases/Create Ingest Class and subclass - data driven","bindedValues":{"classCatagory":"Things","storageType":"Transaction - HBase"}}
+{"testCaseName":"Test Cases/Create Ingest Class and subclass - data driven - Iteration 4","testCaseId":"Test Cases/Create Ingest Class and subclass - data driven","bindedValues":{"storageType":"Statistics"}}
+{"testCaseName":"Test Cases/Create Ingest Class and subclass - data driven - Iteration 5","testCaseId":"Test Cases/Create Ingest Class and subclass - data driven","bindedValues":{"storageType":"Transaction - Parquet"}}
+{"testCaseName":"Test Cases/Create Ingest Class and subclass - data driven - Iteration 6","testCaseId":"Test Cases/Create Ingest Class and subclass - data driven","bindedValues":{"storageType":"Parquet Extended"}}

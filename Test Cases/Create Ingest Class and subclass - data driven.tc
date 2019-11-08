@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Ingest Class and subclass - data driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70e15f3b-696b-4dbb-bb64-7956ff640d54</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07901554-1994-46bd-88dd-7a6bf32f5197</id>
+      <masked>false</masked>
+      <name>classCatagory</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>02982fdb-11c9-4267-827b-88e4a81d62db</id>
+      <masked>false</masked>
+      <name>storageType</name>
+   </variable>
+</TestCaseEntity>

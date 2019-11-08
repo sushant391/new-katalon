@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>okk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e54b12e0-f685-4733-a1bd-ec019de9f95b</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('dataIngest')</defaultValue>
+      <description></description>
+      <id>30b255e6-cb76-4d70-96ba-c43d80f49623</id>
+      <masked>false</masked>
+      <name>FileName</name>
+   </variable>
+</TestCaseEntity>
