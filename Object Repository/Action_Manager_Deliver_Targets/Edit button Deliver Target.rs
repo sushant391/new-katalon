@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Product Catagory</name>
+   <name>Edit button Deliver Target</name>
    <tag></tag>
-   <elementGuidId>648fceb4-2cb9-453e-becc-b2c0f33f3c65</elementGuidId>
+   <elementGuidId>90b6b333-1cf1-43f6-b246-e91ad387410f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[text()='Product Division']</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivered'])[1]/following::*[name()='svg'][3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

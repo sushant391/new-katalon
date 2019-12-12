@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>XEM_AM - Review Opportunities-Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3775b58-8633-414c-a498-ed66bd7a2a87</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d3b96109-ff83-46c9-beb6-3d41f608376f</id>
+      <masked>false</masked>
+      <name>productCatagoryData</name>
+   </variable>
+</TestCaseEntity>

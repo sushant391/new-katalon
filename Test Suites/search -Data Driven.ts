@@ -14,7 +14,7 @@
       <guid>b376d692-5e1f-4d09-bbee-5529a3f87296</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Search Functionality - Data Driven</testCaseId>
+      <testCaseId>Test Cases/XEM/XEM_Search - Data Driven</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>8adce49c-c416-4ae4-97c1-13a6033ca315</id>

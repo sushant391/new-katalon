@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Product Catagory</name>
+   <name>Filtered Opportunities</name>
    <tag></tag>
-   <elementGuidId>648fceb4-2cb9-453e-becc-b2c0f33f3c65</elementGuidId>
+   <elementGuidId>f52168d1-2913-4d07-9fa3-a48f8a676b63</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[text()='Product Division']</value>
+         <value>/html/body/r4-root/section/div/r4-create-targets/div/div/div[2]/div[1]/r4-target-filter/div/div/form/div/div[2]/label/p-radiobutton/div/div[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>

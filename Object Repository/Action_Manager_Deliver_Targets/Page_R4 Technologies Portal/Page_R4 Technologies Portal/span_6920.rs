@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_6920</name>
+   <tag></tag>
+   <elementGuidId>bf1a29d7-12b3-4b45-b2ee-630adfc54a39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Destination'])[1]/following::span[16]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ag-group-value</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref</name>
+      <type>Main</type>
+      <value>eValue</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>6920</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/r4-root[@class=&quot;ng-tns-c0-0&quot;]/section[@class=&quot;content ng-tns-c0-0 ng-star-inserted&quot;]/div[@class=&quot;content-outlet&quot;]/r4-query-targets[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;query-content&quot;]/section[@class=&quot;query-snapshots&quot;]/div[@class=&quot;query-snapshots--snapshot-content&quot;]/div[@class=&quot;query-snapshots--snapshot-content__data-table ng-star-inserted&quot;]/div[@class=&quot;table-wrapper ng-star-inserted&quot;]/r4-data-table[1]/div[@class=&quot;grid-wrapper ng-star-inserted&quot;]/ag-grid-angular[@class=&quot;data-table ag-theme-balham dark-header ng-star-inserted&quot;]/div[@class=&quot;ag-root-wrapper ag-layout-normal ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-normal&quot;]/div[@class=&quot;ag-root ag-font-style ag-layout-normal&quot;]/div[@class=&quot;ag-body ag-layout-normal ag-row-animation&quot;]/div[@class=&quot;ag-body-viewport-wrapper&quot;]/div[@class=&quot;ag-body-viewport ag-layout-normal&quot;]/div[@class=&quot;ag-body-container ag-layout-normal&quot;]/div[@class=&quot;ag-row ag-row-no-focus ag-row-even ag-row-level-0 ag-row-hover&quot;]/div[@class=&quot;ag-cell ag-cell-not-inline-editing ag-cell-with-height ag-cell-no-focus ag-cell-value ag-column-hover&quot;]/span[@class=&quot;ag-row-group-leaf-indent ag-row-group-indent-0&quot;]/span[@class=&quot;ag-group-value&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Destination'])[1]/following::span[16]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prepared By'])[1]/following::span[36]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sss'])[1]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivered'])[1]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='6920']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/span/span[4]</value>
+   </webElementXpaths>
+</WebElementEntity>

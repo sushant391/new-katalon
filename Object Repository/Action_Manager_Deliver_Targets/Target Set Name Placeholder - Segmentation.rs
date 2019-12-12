@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Product Catagory</name>
+   <name>Target Set Name Placeholder - Segmentation</name>
    <tag></tag>
-   <elementGuidId>648fceb4-2cb9-453e-becc-b2c0f33f3c65</elementGuidId>
+   <elementGuidId>c3141cdb-7645-4666-8aca-f9db833155fd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[text()='Product Division']</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//*[@placeholder='Type a name for the Target Set. (The segment descriptor will be generated automatically.)']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

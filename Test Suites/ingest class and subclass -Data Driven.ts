@@ -14,7 +14,7 @@
       <guid>a6f9a7f6-d792-40a1-bf23-8e77a8be59b7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Ingest Class and subclass - data driven</testCaseId>
+      <testCaseId>Test Cases/XEM/XEM_Create Ingest Class and subclass - data driven</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>8a7142dc-a91d-47a8-a406-a494f24955fd</id>

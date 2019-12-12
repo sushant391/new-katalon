@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Product Catagory</name>
+   <name>select Locations</name>
    <tag></tag>
-   <elementGuidId>648fceb4-2cb9-453e-becc-b2c0f33f3c65</elementGuidId>
+   <elementGuidId>cff983b3-daf5-4577-ab70-609abafa773e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[text()='Product Division']</value>
+         <value>/html/body/r4-root/section/div/r4-create-targets/div/div/div[2]/div[1]/r4-target-filter/div/div[2]/div[2]/div[2]/div/div[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

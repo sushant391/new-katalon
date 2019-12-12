@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Target_Status</name>
+   <tag></tag>
+   <elementGuidId>f080e0b2-38c3-439e-9be4-4f59da69acc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/r4-root/section/div/r4-query-targets/div/section/div[1]/div[2]/div/r4-data-table/div/ag-grid-angular/div/div[2]/div[1]/div[3]/div[2]/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

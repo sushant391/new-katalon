@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Product Catagory</name>
+   <name>tab Product View</name>
    <tag></tag>
-   <elementGuidId>648fceb4-2cb9-453e-becc-b2c0f33f3c65</elementGuidId>
+   <elementGuidId>31332702-41c1-47cb-9753-23c79087d08f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[text()='Product Division']</value>
+         <value>/html/body/r4-root/section/div/r4-opportunities/div/div/div/p-tabmenu/div/ul/li[4]/a/span</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

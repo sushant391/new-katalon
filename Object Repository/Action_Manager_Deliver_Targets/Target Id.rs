@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Product Catagory</name>
+   <name>Target Id</name>
    <tag></tag>
-   <elementGuidId>648fceb4-2cb9-453e-becc-b2c0f33f3c65</elementGuidId>
+   <elementGuidId>02213ef2-04e9-4031-b27d-534ddd4929e8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[text()='Product Division']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Destination'])[1]/following::span[16]</value>
       </entry>
       <entry>
          <key>BASIC</key>

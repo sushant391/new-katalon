@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>XEM_Data Feed - Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8ec997e-0005-4137-927d-f9f154397259</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5ebc1182-ea0d-4bfe-94b1-b2dc3d9714f8</id>
+      <masked>false</masked>
+      <name>FileName</name>
+   </variable>
+</TestCaseEntity>
